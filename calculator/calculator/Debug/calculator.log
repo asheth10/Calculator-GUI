@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\ashutosh dahal\documents\visual studio 2017\projects\calculator\calculator\MyForm.h(395): warning C4129: '/': unrecognized character escape sequence
+c:\users\ashutosh dahal\documents\visual studio 2017\projects\calculator\calculator\MyForm.h(395): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\ashutosh dahal\documents\visual studio 2017\projects\calculator\calculator\MyForm.h(395): warning C4309: '=': truncation of constant value
+MyForm.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  calculator.vcxproj -> c:\users\ashutosh dahal\documents\visual studio 2017\Projects\calculator\Debug\calculator.exe
